@@ -1,5 +1,8 @@
 @track channel 6-9
 Ev-'ry val--ley, ev-'ry val--ley
 shall- be ex-alt--ed,
-shall be---- ex-alt--------------------------ed,
+shall be---- ex-alt-{19}--ed,
 shall be ex-alt-----ed,
+shall be ex-alt-{24}--ed,
+and ev-'ry moun-tain and hill--- made low,
+the crook--ed- straight,
