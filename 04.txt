@@ -1,10 +1,12 @@
 @track 9-12
-[Alto]_And the glo-ry, the glo-ry_of the Lord,
-[All]_And the glo-ry, the glo-ry_of the Lord
-[Tenor]_shall be re---veal----ed,
-[All]_shall- be re---veal----ed,-
-the glo-ry of- the- Lord
-and the glo-ry, the- glo-ry of the Lord-
-shall- be- re---veal----ed,
-shall be re-veal--ed
+;Remove the voice identifications when done debugging; they're just noise
+[A]_And the glo-ry, the glo-ry_of the Lord,
+[STB]_And the glo-ry, the glo-ry_of the Lord
+[T]_shall be re---veal-----ed,-
+[S]_shall- be re---veal-----ed,-
+[T24]_the glo-ry of- the- Lord
+[S25.5]_and the glo-ry, the- glo-ry_of the Lord-
+[T28.5]_shall- be- re---veal-----ed,-
+[S31.5]_shall be- re-veal--ed
 ; Letter A (bar 33)
+and the glo-ry
