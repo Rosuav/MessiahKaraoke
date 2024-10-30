@@ -9,4 +9,15 @@
 [T28.5]_shall- be- re---veal-----ed,-
 [S31.5]_shall be- re-veal--ed
 ; Letter A (bar 33)
-and the glo-ry
+[SATB]_and the glo-ry, the glo-ry_of the Lord
+shall be re-veal--ed,
+[A]_and all flesh-- shall see- it to-ge--ther,
+[T]_and all flesh-- shall see- it to-ge--ther,
+; Letter B (bar 51)
+[TB51]_for the mouth-- of-- the Lord-- hath spo-ken- it,---
+[ATB]_and all flesh-- shall see- it to-ge--ther
+[A63]_and all flesh,-
+[T]_and all flesh,-
+[A]_and all flesh-- shall see it to-ge-ther-
+[SA]_and all flesh-- shall see- it to-ge--ther
+[SATB76]_and the glo-ry, the glo-ry_of the Lord,
