@@ -1,5 +1,4 @@
 @track 9-12
-;Remove the voice identifications when done debugging; they're just noise
 And the glo-ry, the glo-ry_of the Lord,
 And the glo-ry, the glo-ry_of the Lord
 shall be re---veal-----ed,-
