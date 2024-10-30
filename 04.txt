@@ -1,55 +1,51 @@
 @track 9-12
 ;Remove the voice identifications when done debugging; they're just noise
-[A]_And the glo-ry, the glo-ry_of the Lord,
-[STB]_And the glo-ry, the glo-ry_of the Lord
-[T]_shall be re---veal-----ed,-
-[S]_shall- be re---veal-----ed,-
-[T24]_the glo-ry of- the- Lord
-[S25.5]_and the glo-ry, the- glo-ry_of the Lord-
-[T28.5]_shall- be- re---veal-----ed,-
-[S31.5]_shall be- re-veal--ed
+And the glo-ry, the glo-ry_of the Lord,
+And the glo-ry, the glo-ry_of the Lord
+shall be re---veal-----ed,-
+shall- be re---veal-----ed,-
+the glo-ry of- the- Lord
+and the glo-ry, the- glo-ry_of the Lord-
+shall- be- re---veal-----ed,-
+shall be- re-veal--ed
 ; Letter A (bar 33)
-[SATB]_and the glo-ry, the glo-ry_of the Lord
+and the glo-ry, the glo-ry_of the Lord
 shall be re-veal--ed,
-[A]_and all flesh-- shall see- it to-ge--ther,
-[T]_and all flesh-- shall see- it to-ge--ther,
+and all flesh-- shall see- it to-ge--ther,
+and all flesh-- shall see- it to-ge--ther,
 ; Letter B (bar 51)
-[TB51]_for the mouth-- of-- the Lord-- hath spo-ken- it,---
-[ATB]_and all flesh-- shall see- it to-ge--ther
-[A63]_and all flesh,-
-[T]_and all flesh,-
-[A]_and all flesh-- shall see it to-ge-ther-
+for the mouth-- of-- the Lord-- hath spo-ken- it,---
+and all flesh-- shall see- it to-ge--ther
+and all flesh,-
+and all flesh,-
+and all flesh-- shall see it to-ge-ther-
 ; Letter C (bar 68)
-[SA]_and all flesh-- shall see- it to-ge--ther
-[SATB76]_and the glo-ry, the glo-ry_of the Lord,
-[AT]_and all flesh-
-[SB]_and all flesh-- shall see- it to-ge-ther,--
+and all flesh-- shall see- it to-ge--ther
+and the glo-ry, the glo-ry_of the Lord,
+and all flesh-
+and all flesh-- shall see- it to-ge-ther,--
 ; Letter D (bar 84)
-[A]_and the glo-ry, the glo-ry_of the Lord-
+and the glo-ry, the glo-ry_of the Lord-
 shall be re---veal--ed
-[T]_all flesh-
-[B]_and all flesh-
-[A]_and all flesh--
-[ATB]_shall see it- to-ge-ther
-[T]_the glo-ry, the glo-ry_of- the Lord,-
+all flesh,- and all flesh,- and all flesh--
+shall see it- to-ge-ther
+the glo-ry, the glo-ry_of- the Lord,-
 shall be re--veal-ed,
-[S]_hath--- spo------ken it,-
+hath--- spo------ken it,-
 ; Letter E (bar 102)
-[A]_and all flesh-
-[T]_and all flesh-
-[B]_and all flesh--
-[ATB]_shall see- it- to-ge-ther,
-[S]_the glo-ry, the glo-ry_of the Lord,
-[ATB]_and the glo-ry
-[S]_shall be- re---veal----ed,-
-[B]_shall- be re---veal-----ed,------
-[A]_and- all- flesh-
-[ST]_and all flesh-- shall see- it to-ge--ther, to-ge--ther,
+and all flesh,- and all flesh,- and all flesh--
+shall see- it- to-ge-ther,
+the glo-ry, the glo-ry_of the Lord,
+and the glo-ry
+shall be- re---veal----ed,-
+shall- be re---veal-----ed,------
+and- all- flesh-
+and all flesh-- shall see- it to-ge--ther, to-ge--ther,
 ; Letter F (bar 124)
-[S]_for the mouth,
-[ATB]_for the mouth of the Lord,--
-[SATB]_hath spo--ken it,
-[SA]_for the mouth,
-[TB]_for- the mouth of the Lord,--
+for the mouth,
+for the mouth of the Lord,--
+hath spo--ken it,
+for the mouth,
+for- the mouth of the Lord,--
 the mouth of the Lord--
 hath spo-ken it.
