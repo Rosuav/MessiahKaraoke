@@ -1,14 +1,22 @@
 @track 7
+; The MIDI file has a bar at the beginning which is
+; not numbered in the score, so bar 13 in the score
+; (letter A) shows up as bar 14. Denoted here as 13/14.
 But who may a-bide the day of His com-ing?
 and who shall- stand when He- ap-pear-eth?
 who shall--- stand when He- ap-pear-eth?
-; Letter B (bar 30)
+; Letter B (bar 30/31)
 But who may- a-bide,- but who may a-bide-
 the day of His com-ing?
 and- who shall stand when He ap----pear-eth?
 And who shall stand when He ap-pear-{56}--eth?
 when He ap-pear-{60}-eth?
-;Letter D (bar 59)
+; Letter D (bar 59/60)
 For He is like--- a re-fi-------ner's- fire,
-for He is like-- a re-fi-{72}------ner's fire,--
-who shall stand when He ap-pear-eth?
+for He is like-- a re-fi-{72}-------ner's- fire,--
+; Letter E (bar 73/74)
+who shall stand when He ap-pear--eth?
+for He is like- a re-fi-{84}------ner's fire,
+for He is like- a re-fi-----ner's fire,-{91}-
+and who shall stand when He ap-pear--eth?
+; Letter F (bar 94/95)
