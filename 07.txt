@@ -1,0 +1,47 @@
+@track channel 6-9
+S_And He shall pu--ri-fy,
+and He shall pu-ri-fy,----------------
+the sons of Le--vi,
+; Basses: "And he..."
+B_shall pu--ri-fy,
+and He shall pu-ri-fy----------------------------------
+the sons of Le--vi
+; Letter A (bar 11)
+T_And He shall pu-ri-fy------------------
+A_and He shall pu-ri-fy-----------------------------
+S_and- He shall pu-ri-fy--------------------------------
+the sons of Le--------vi,--------------
+the sons-- of Le-vi,
+; Letter B (bar 21)
+that they may of-fer un-to the Lord
+an of-fer-ing in right--eous-ness,
+in right-eous--ness,
+and He shall pu--ri-fy,
+; (Cheating a bit here - the "fy" is a note later, and there's
+; an "and" that comes in before it.)
+ATB_He shall pu--ri-fy
+B_shall pu-ri-fy---------------------
+AT_and- He- shall- pu--ri-fy,
+; (Same cheat again as we switch back to the sops)
+S_He shall pu-ri-fy------------------------
+; Letter C (bar 32)
+shall pu--ri--fy
+and He shall pu--ri--fy
+B_and He shall pu-ri-fy
+the sons of Le--vi, the sons- of- Le--vi,
+A_and He shall pu--ri-fy
+; (The now-standard cheat appears again)
+STB_He shall pu--ri--fy,----
+T_and He shall pu-ri-fy---
+A_the--- sons----------- of--- Le----vi,-
+S_and- He- shall- pu--ri--fy,-
+T_the- sons- of- Le----vi---------------------
+A_shall- pu--ri--fy-
+T_shall- pu--ri--fy-----
+S_and- He- shall- pu--ri--fy,-----
+B_and- He- shall- pu--ri--fy,-------------
+the- sons,- the sons of Le-vi,
+; Letter E (bar 52)
+that they may of-fer un-to the Lord
+an- of-fer-ing in right-eous--ness,
+in right-eous--ness.
