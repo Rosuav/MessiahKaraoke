@@ -9,5 +9,20 @@ O thou that tell-est good ti-dings- to Je-ru-sa--lem,
 lift up thy voice with strength:
 lift it up, be not a-fraid:
 ; Letter D (bar 49)
-
-;@track channel 6-9
+say un--to the cit--ies of Ju-dah,
+say un--to the cit--ies of Ju-dah,
+Be-hold your God! be-hold your God!
+say un-to the cit-ies of Ju-----dah,
+Be-hold your God! be-hold your God! be-hold your-{67} God!
+; Letter E (bar 67)
+O thou that tell-est good ti-dings to Zi-on,
+a-rise, shine, for thy light is come,
+a---rise,-- a---rise,-- a-rise, shine, for thy light is come:
+and the glo-{87}----------ry of the Lord,
+the glo--ry of- the Lord is ris---en,-
+is ris---en- up-on-- thee,- is ris-en,
+is ris---en- up-on thee,
+the-- glo--ry, the-- glo--ry,
+the glo--ry of- the Lord is ris--en- up-on thee.
+;Letter H (bar 106) and straight into the chorus. There's no more solo from here.
+@track channel 6-9
