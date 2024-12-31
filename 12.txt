@@ -23,4 +23,34 @@ S_and the gov-ern-ment shall be up-on His shoul-----der;
 AB_and the gov-ern-ment shall be up-on His shoul-der;
 SATB_and His name shall be call-ed
 ; Letter D (bar 33)
+Won-der-ful, Coun-sel-lor, The Migh-ty God,
+The Ev-er-last-ing Fa-ther, The Prince of Peace.
+A_Un-to us a Child is born,-
+T_un-to us a Child is born,
+@track channel 6,7,9
+A_un-to us a Son is giv-en
+S_Un-to us a Child is born
+B_un-to us a Son is giv-en
+A_and the gov-ern-ment shall be up-on His shoul-----der
+@track channel 6-9
+B_and the gov-ern-ment shall be up-on His shoul-----der
+ST_and His name
+SATB_and His name- shall be call-ed
+; Letter E (bar 49)
+Won-der-ful, Coun-sel-lor, The Migh-ty God,
+The Ev-er-last-ing Fa-ther, The Prince of Peace.
+T_Un-to us a Child is born,-
+S_un-to us a Child is born,-
+B_un-to us a Child is born,-
+A_un-to us a Child is born,
+; I guess everyone's gotta have their time to go coloratura
+@track channel 6,8,9
+B_un-to us a Son is giv-en:
+ST_un-to us a Son is- giv-en:
+T_and the gov-ern-ment shall be up-on His shoul------der
+S_the gov-ern-ment shall be up-on His shoul------der
+@track channel 6-9
+AB_the gov-ern-ment shall be up-on His shoul-der;
+SATB_and His Name shall be call-ed
+; Letter F (bar 68)
 Won-der-ful
