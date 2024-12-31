@@ -53,4 +53,21 @@ S_the gov-ern-ment shall be up-on His shoul------der
 AB_the gov-ern-ment shall be up-on His shoul-der;
 SATB_and His Name shall be call-ed
 ; Letter F (bar 68)
-Won-der-ful
+Won-der-ful, Coun-sel-lor, The Migh-ty God,
+The Ev-er-last-ing Fa-ther, The Prince- of Peace.
+B_Un-to us a Child is born,-
+SATB_un-to us a child is born,
+; Alright, all the girls, go do your stuff for a bit
+@track channel 8-9
+TB_un-to us a Son is giv-en,
+un-to us a Son is giv-en,
+@track channel 6-9
+un-to us a Son is giv-en:
+S_and the gov-ern-ment,
+the gov-ern-ment shall be up-on His shoul----der,-
+SATB_and the gov-ern-ment shall be up-on His shoul-der;
+and His Name shall be call-ed
+; Letter G (bar 85)
+Won-der-ful, Coun-sel-lor, The Migh-ty God,
+The Ev-er-last-ing Fa-ther, The Prince of Peace,
+The Ev-er-last-ing Fa-ther, The Prince of Peace.
