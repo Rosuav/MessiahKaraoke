@@ -1,2 +1,2 @@
-pike ../shed/midichannelreduce.pike --channel=$2 --lyrics <$1 | midi2ly --key=1 --duration-quant=16 --start-quant=16 -o /dev/stdout /dev/stdin|lilypond -o compare -
+pike ../shed/midichannelreduce.pike --track=1 --channel=$2 --merge --lyrics <$1 | midi2ly --duration-quant=16 --start-quant=16 -o /dev/stdout /dev/stdin|lilypond -o compare -
 xdg-open compare.pdf
