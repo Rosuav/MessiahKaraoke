@@ -1,4 +1,4 @@
-@track channel 6-9
+@track channel 8
 Ev-'ry val--ley, ev-'ry val--ley
 shall- be ex-alt--ed,
 shall be--- ex-alt-{19}---ed,
@@ -13,9 +13,9 @@ and rough- pla-ces plain,-{40}-
 and the rough pla----ces plain.
 
 Ev-'ry val-ley, ev-'ry val--ley
-shall- be ex-alt-ed,-{52}
+shall- be ex-alt-{52<}-ed,
 ev-'ry val--ley, ev-'ry val--ley
-shall- be ex-alt-ed,-{59}
+shall-- be ex-alt-{59<}-ed,
 and ev-'ry moun-tain and hill made low,
 the crook--ed- straight,
 the crook--ed straight,
@@ -24,4 +24,4 @@ and the rough pla-ces plain,
 and the rough pla-ces plain,
 and the rough pla-ces plain,
 the crook-ed straight,
-and the rough pla--ces plain.-{80}
+and the rough pla----------ces plain.
