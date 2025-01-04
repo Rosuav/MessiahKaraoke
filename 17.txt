@@ -1,0 +1,23 @@
+@track channel 6-9
+; For some reason, assigning lyrics right at the start bugs out
+Glory to God, glo-ry to God
+in the high-est,
+and peace on earth,
+Glo-ry to God, glo-ry to God,
+glo-ry to God in the high-est,
+and peace on earth,
+good will- to--wards men,
+good-- will-- to---wards men,
+good will-- to---wards men,
+to-wards men, to---wards men,----
+good-- will-- to---wards men,--- to--wards men.
+; Letter C (bar 26)
+Glo-ry to God, glo-ry to God
+in the high-est,
+and peace on earth,
+good will- to--wards men,
+to---wards men,- to-wards men,-
+good will, good will, good will, good will,
+good will, good will, good will- to---wards men,--
+to-wards men,- good will---- to-wards-- men.
+
