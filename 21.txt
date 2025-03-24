@@ -1,0 +1,40 @@
+@track channel 6-9
+S:_His yoke-- is- ea-{3}---sy,
+His bur--then is light,--
+His bur--then, His bur---then...
+T:_His- yoke-- is- ea-{7}---sy,--
+His- bur--then- is- light------
+B:_His- yoke---- is- ea-{10}---sy,
+His bur--then, His bur---then
+; Letter A (ish)
+S:_His- bur--then is light,--
+His bur--then, His bur---then- is light,--
+T:_His bur--then-- is light,--
+A:_His bur---then- is light,
+B:_is- ea-{17}---sy,-
+S:_is-- ea-----------------sy,
+His bur---then,
+T:_His- yoke---- is- ea-{21}---sy-
+S:_is- ea------------------sy,
+; Letter B (bar 23)
+His bur---then- is light,----
+B:_His- yoke--- is- ea-{26}-----sy,
+A:_His- bur--then,-
+S:_His bur--then is light,--
+A:_His bur--then, His bur----then,
+S:_His- bur--then, His bur--then- is light,---
+T:_His bur--then- is light,----
+; Letter C (bar 31)
+B:_His- yoke--- is- ea-{33}--sy
+T:_His bur--then, His bur--then, His bur--then,
+S:_His- bur--then is light,--- is light,--
+His bur--then, His bur--then,
+His bur----then,-
+His bur-{40}----then is light,
+; Letter D (bar 41)
+His yoke-- is- ea-{43}---sy,
+and His bur---then is light,--
+His yoke-- is ea--sy,
+His bur--then- is- light,---
+His yoke---- is- ea--sy,
+and His bur----then is light.
