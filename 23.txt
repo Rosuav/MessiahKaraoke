@@ -1,0 +1,60 @@
+@track channel 7
+He was des---pi-sed,
+des--pi-sed-- and- re-ject---ed,
+re-ject---ed of- men,
+a man of sor-{16<}-rows,
+a man of sor-------rows,
+and-- ac--quaint--ed with grief,---
+a- man of sor-rows,
+and ac--quaint--ed with grief.
+; Letter B (bar 21)
+He was des--pi-sed, re-ject---ed,
+He was des--pi--sed and re-ject-ed of- men,
+a man- of- sor--rows,
+and-- ac-quaint--ed with grief,---
+a man of sor---rows,
+; Letter C (bar 33)
+and ac-quaint-ed----- with grief,
+He was des---pi--sed, re---ject--ed,
+a man- of- sor-rows,
+and ac-quaint--ed- with- grief,
+and ac-quaint-ed--- with grief,
+a man---- of sor---rows,
+and ac-quaint-ed-{43<} with grief.
+; Letters D (bar 43) and E (50)
+He- gave- His back to- the smi--ters
+He gave His back to- the smi--ters
+and His cheeks to them
+that pluck-ed- off---- the hair,
+and His- cheeks to- them
+that- pluck-ed off the hair,
+and His- cheeks to them
+that- pluck-ed off the hair:
+; Letter F (bar 59)
+He- hid not His face from shame and- spit--ting
+He hid not His face from- shame,- from- shame,-
+He hid not His face from shame,
+from shame and spit-ting.
+; D.C. al fine (bar 67)
+He was des---pi-sed,
+des--pi-sed-- and- re-ject---ed,
+re-ject---ed of- men,
+a man of sor-{83<}-rows,
+a man of sor-------rows,
+and-- ac--quaint--ed with grief,---
+a- man of sor-rows,
+and ac--quaint--ed with grief.
+; Letter B again
+He was des--pi-sed, re-ject---ed,
+He was des--pi--sed and re-ject-ed of- men,
+a man- of- sor--rows,
+and-- ac-quaint--ed with grief,---
+a man of sor---rows,
+; Letter C again
+and ac-quaint-ed----- with grief,
+He was des---pi--sed, re---ject--ed,
+a man- of- sor-rows,
+and ac-quaint--ed- with- grief,
+and ac-quaint-ed--- with grief,
+a man---- of sor---rows,
+and ac-quaint-ed------------------ with grief.
